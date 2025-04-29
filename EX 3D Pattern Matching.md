@@ -14,8 +14,8 @@ To write a python program to implement pattern matching on the given string usin
 ## Program:
 ```python
 Program to implement the Pattern Matching.
-Developed by: THIRISHA S
-Register Number:  212222230160
+Developed by: A.ARUVI.
+Register Number:  212222230014.
 def preprocess_strong_suffix(shift, bpos, pat, m):
     i = m
     j = m + 1
